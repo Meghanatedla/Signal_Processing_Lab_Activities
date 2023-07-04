@@ -11,7 +11,7 @@ Below is a list of the activities included in this repository:
 
 `Lab 3`:  **_DT Systems - Applications_**
 
-`Lab 4`:  **_Discrete-Time FT and LTI Systems**
+`Lab 4`:  **_Discrete-Time FT and LTI Systems_**
 
 `Lab 5`:  **_DFT and FFT_**
 
